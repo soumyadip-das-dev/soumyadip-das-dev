@@ -59,7 +59,7 @@ I am an **AI/ML Engineer** and **Full-Stack Developer** pursuing my B.Tech in AI
 
 My work focuses on building practical **Generative AI** systems, **Retrieval-Augmented Generation (RAG)** pipelines, and scalable web applications. Currently, I am engineering a specialized **Legal-AI Assistant for Indian Law**, optimizing dense document retrieval, FAISS vector indexing, and citation-backed synthesis.
 
-> *"How do you make AI actually useful in the real world? My answer — a Legal-AI Assistant for Indian law. Not a toy. A tool."*
+> 
 
 </td>
 <td width="45%" valign="top">
