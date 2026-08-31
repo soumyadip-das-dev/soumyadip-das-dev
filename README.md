@@ -344,6 +344,8 @@ My work focuses on building practical **Generative AI** systems, **Multi-Agent W
 
 | Certification | Issuer | Year | Status |
 | :--- | :--- | :---: | :---: |
+| **American Express Data Analysis** | Unstop | 2025 | Verified |
+| **Tata Group - Cybersecurity Analyst Job Simulation** | Forage | 2025 | Verified |
 | **Artificial Intelligence & Machine Learning Internship** | IBM SkillsBuild / AICTE (Edunet Foundation) | 2025 | Verified |
 | **Responsible AI: Applying AI Principles with Google Cloud** | Google Cloud | 2025 | Verified |
 
