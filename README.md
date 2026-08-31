@@ -394,22 +394,6 @@ open_to:
 <a href="mailto:dassoumyadip180@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-dassoumyadip180%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-&nbsp;
-<a href="https://customer-support-chatbot-nkac8usmzurksuqmeqncwj.streamlit.app">
-  <img src="https://img.shields.io/badge/Live_App-Support_Chatbot-FF4B4B?style=for-the-badge" alt="Support Chatbot App"/>
-</a>
-&nbsp;
-<a href="https://ai-finance-tracker-pi-five.vercel.app">
-  <img src="https://img.shields.io/badge/Live_App-AI_Finance_Tracker-00d9ff?style=for-the-badge" alt="Finance App"/>
-</a>
-&nbsp;
-<a href="https://customer-churn-prediction-am9rjlvuk7zwa8w.streamlit.app/">
-  <img src="https://img.shields.io/badge/Live_App-Churn_Predictor-FF6600?style=for-the-badge" alt="Churn App"/>
-</a>
-&nbsp;
-<a href="https://loans-approval-prediction.streamlit.app">
-  <img src="https://img.shields.io/badge/Live_App-Loan_Predictor-22c55e?style=for-the-badge" alt="Loan App"/>
-</a>
 
 <br/><br/>
 
