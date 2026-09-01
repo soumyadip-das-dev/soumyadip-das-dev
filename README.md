@@ -19,8 +19,6 @@
 
 <!-- BADGES & LIVE DEMOS BANNER -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumyadip-das-dev&label=Profile+Views&color=6E56CF&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
   <a href="https://linkedin.com/in/soumyadip-das-4201931b5">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
