@@ -27,6 +27,6 @@ jobs:
 
           git add daily-activity.md
 
-          git commit -m "chore: daily profile update" || echo "No changes to commit"
+          git commit -m "daily profile update" || echo "No changes to commit"
 
           git push
