@@ -2,7 +2,7 @@ name: Daily Profile Update
 
 on:
   schedule:
-    - cron: "30 14 * * *" # 8:00 PM IST
+    - cron: "30 4 * * *" # 10:00 AM IST
   workflow_dispatch:
 
 permissions:
@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Update activity file
         run: |
@@ -27,6 +27,6 @@ jobs:
 
           git add daily-activity.md
 
-          git commit -m "daily profile update" || echo "No changes to commit"
+          git commit -m "chore: daily profile update" || echo "No changes to commit"
 
           git push
